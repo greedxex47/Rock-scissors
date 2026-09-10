@@ -9,7 +9,7 @@ The game allows the player to choose Rock, Paper, or Scissors and compete agains
 
 ## 📱 Preview
 
-![Rock Paper Scissors Game](1000208193.jpg)
+![Rock Paper Scissors Game](Rock-scissors.jpg)
 
 ## ✨ Features
 
